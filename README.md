@@ -46,9 +46,9 @@ With the default arguments and seed, results match the original single-file scri
 ```bibtex
 @misc{sbl_mmwave_ee602,
   title  = {Sparse Bayesian Learning for Delay-Angular Channel Estimation in mmWave Massive MIMO-OFDM},
-  author = {<Your Name>},
+  author = {Dweep Joshipura, Kshitij Shukla},
   year   = {2026},
   note   = {EE602 term paper, simulation code},
-  url    = {<repository URL>}
+  url    = {https://github.com/djthegr8/EE602-Sparse-Bayesian-Learning}
 }
 ```
